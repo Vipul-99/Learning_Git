@@ -5,3 +5,5 @@ I am adding this new line in vscode studio. <br>
 Adding another line in github.
 
 This is user one that has made some changes on git directly.
+
+This is user3 again trying to add one more line but this time from vs studio
